@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/dsebastianb/">
@@ -10,14 +10,14 @@
 <img src="https://komarev.com/ghpvc/?username=dbsebastian&style=flat-square&color=blue" alt=""/>
 </div>
 
-#### About me
+### About me
 
 My names is Sebastian.  
 I'm from Chaco, Argentina.
 
 I am currently studying economics at UNNE (Universidad Nacional del Nordeste) and I am self-taught in data science and data engineering.  
   
-#### Technologies I am familiar with
+### Technologies I am familiar with
   
 
 <div align="center">  
