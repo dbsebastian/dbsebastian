@@ -32,6 +32,8 @@ I am currently studying economics at UNNE (Universidad Nacional del Nordeste) an
 	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />  
 	<img src="https://img.shields.io/badge/SQLalchemy-red.svg?style=for-the-badge&logo=SQLalchemy&logoColor=white" />  
+	<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />  
+ 	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />  
 </div>
 
 
