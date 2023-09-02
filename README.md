@@ -17,7 +17,7 @@ I'm from Chaco, Argentina.
 
 I am currently studying economics at UNNE (Universidad Nacional del Nordeste) and I am self-taught in data science and data engineering.  
   
-### Technologies I am familiar with
+### Technologies I'm familiar with
   
 
 <div align="center">  
